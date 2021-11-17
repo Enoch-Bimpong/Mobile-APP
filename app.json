@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Shopping-App",
+    "slug": "Shopping-App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/products/Logo.png",
+    "splash": {
+      "image": "./assets/products/image 3.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/products/image 6.jpg",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/products/image 5.jpg"
+    }
+  }
+}
